@@ -1,3 +1,7 @@
 # Simple chatbot without library included
 
-A chatbot that have 3 functions: greeting, response weather (with predefined answer), detect whether users want to end conversation.
+A chatbot with 3 functions: greeting, response weather (with predefined answer), detect whether users want to end conversation.
+
+## Other approaches
+
+There are different approaches that improve the chatbot's ability such as using Llama/Langchain, building from Chatterbot or even using LLM's API to get the response correctly.
