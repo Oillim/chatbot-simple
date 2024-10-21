@@ -1,1 +1,3 @@
-AAAA
+# Simple chatbot without library included
+
+A chatbot that have 3 functions: greeting, response weather (with predefined answer), detect whether users want to end conversation.

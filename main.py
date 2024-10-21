@@ -1,9 +1,3 @@
-import nltk
-from nltk.corpus import wordnet as wn
-
-nltk.download('wordnet')
-
-
 def greeting():
     print("Hello! I'm Tob - a simple chatbot.")
     name = input("What's your name? ")
@@ -16,7 +10,7 @@ def weather_response():
 def end_chat():
     print("Goodbye! Have a great day!")
 
-#end_chat corpus
+# End_chat corpus
 end_chat_corpus = ['bye', 'goodbye', 'exit', 'quit', 'done', 'stop', 'end', 'thanks', 'thank you']
 
 def chatbot():
